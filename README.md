@@ -20,8 +20,8 @@ Navigating through a temple represented as a matrix, with a magic code dictating
 
 Upon exiting the maze, you encounter encrypted messages from a strange voice. This problem involves deciphering these messages using **Caesar and Vigenère** ciphers and performing **addition on large numbers**.
 
-- `Caesar cipher`**:** shifts each letter and digit in the plaintext by a fixed number determined by a key, wrapping around the alphabet and number set.
-- `Vigenère cipher`**:** applies a series of Caesar shifts varying per letter, based on the corresponding letter's position in the keyword.
+- `Caesar`**:** shifts each letter and digit in the plaintext by a fixed number determined by a key, wrapping around the alphabet and number set.
+- `Vigenère`**:** applies a series of Caesar shifts varying per letter, based on the corresponding letter's position in the keyword.
 - `Addition`**:** sums two large numbers represented as strings, digit by digit, from right to left, accounting for any carry-over.
 
 ### Help Prediction
