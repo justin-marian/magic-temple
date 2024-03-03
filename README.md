@@ -33,7 +33,9 @@ This task involves reading and processing text to identify these word pairs, cal
 ## Build the Project
 
 1. Navigate to the `build` directory.
-2. Run the `make` command to build the executable. The `Makefile` provided will compile the source files and link them with the necessary libraries.
+2. Run the `make` command to build the executable.
+
+The `Makefile` provided will compile the source files and link them with the necessary libraries.
 
 ```bash
     cd ./build
