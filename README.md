@@ -40,7 +40,7 @@ This task involves reading and processing text to identify these word pairs, cal
     make
 ```
 
-### Run The Project
+## Run The Project
 
 After building the project, you can run the program with the shell script `temple_run.sh` to execute the program. This script sets up the necessary environment and arguments for the program to run the test suite.
 
