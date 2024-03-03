@@ -42,7 +42,7 @@ The `Makefile` provided will compile the source files and link them with the nec
     make
 ```
 
-## Run The Project
+## Run the Project
 
 After building the project, you can run the program with the shell script `temple_run.sh` to execute the program. This script sets up the necessary environment and arguments for the program to run the test suite.
 
